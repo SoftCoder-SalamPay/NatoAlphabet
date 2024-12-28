@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\NatoAlphabets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\NatoAlphabets.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\NatoAlphabets.AssemblyInfo.cs
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\NatoAlphabets.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Project\NatoAlphabets\bin\Debug\net8.0\NatoAlphabets.exe
+C:\Users\PC\Desktop\Project\NatoAlphabets\bin\Debug\net8.0\NatoAlphabets.deps.json
+C:\Users\PC\Desktop\Project\NatoAlphabets\bin\Debug\net8.0\NatoAlphabets.runtimeconfig.json
+C:\Users\PC\Desktop\Project\NatoAlphabets\bin\Debug\net8.0\NatoAlphabets.dll
+C:\Users\PC\Desktop\Project\NatoAlphabets\bin\Debug\net8.0\NatoAlphabets.pdb
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\NatoAlphabets.dll
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\refint\NatoAlphabets.dll
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\NatoAlphabets.pdb
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\NatoAlphabets.genruntimeconfig.cache
+C:\Users\PC\Desktop\Project\NatoAlphabets\obj\Debug\net8.0\ref\NatoAlphabets.dll
